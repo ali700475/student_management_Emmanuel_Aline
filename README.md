@@ -1,5 +1,5 @@
 # student_management_Emmanuel_Aline
-# student_management_Emmanuel_Aline
+
 <?php
 /*
 README - Student Management Application 
